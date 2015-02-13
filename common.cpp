@@ -1,5 +1,6 @@
 #include "common.h"
 
-void fummy(void)
+int dummy(void)
 {
+    return 0;
 }
