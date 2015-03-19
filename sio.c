@@ -1,5 +1,6 @@
 #include <stdio.h>
-void tx()
+
+void tx(char c)
 {
-    printf("This is tx()\n");
+    printf("This is tx(%c)\n", c);
 }
